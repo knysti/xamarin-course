@@ -1,7 +1,12 @@
 # Curriculum [WIP]
     
 ### Xamarin intro
-* Packages, IDE, iOS and Android projects, shared code, Android Player, build steps, from idea to store
+* IDE
+* Packages
+* iOS and Android projects vs. shared code
+* Android Player
+* Build steps
+* From idea to store
 
 ### First app
 * Convert my cash
