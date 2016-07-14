@@ -104,11 +104,12 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="Views\" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="LaunchScreen.storyboard" />
     <InterfaceDefinition Include="Main.storyboard" />
-    <InterfaceDefinition Include="FeedTableViewController.xib" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Info.plist" />
@@ -118,9 +119,21 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
-    <Compile Include="FeedTableViewController.cs" />
-    <Compile Include="FeedTableViewController.designer.cs">
+    <Compile Include="Controllers\FeedTableViewController.cs" />
+    <Compile Include="Controllers\FeedTableViewController.designer.cs">
       <DependentUpon>FeedTableViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\FeedTableViewCell.cs" />
+    <Compile Include="Views\FeedTableViewCell.designer.cs">
+      <DependentUpon>FeedTableViewCell.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fee.cs" />
+    <Compile Include="fee.designer.cs">
+      <DependentUpon>fee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\PostDetailViewController.cs" />
+    <Compile Include="Controllers\PostDetailViewController.designer.cs">
+      <DependentUpon>PostDetailViewController.cs</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
