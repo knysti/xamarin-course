@@ -4,19 +4,15 @@ using UIKit;
 
 using Economic.EconFeedService.Models;
 
-namespace EconFeed.iOS
-{
+namespace EconFeed.iOS {
 	public interface NewPostViewControllerDelegate {
 		void DidSavePost(Post post);
 	}
 
-    public partial class NewPostViewController : UITableViewController
-    {
+    public partial class NewPostViewController : UITableViewController {
 		public NewPostViewControllerDelegate newPostViewControllerDelegate;
 
-        public NewPostViewController (IntPtr handle) : base (handle)
-        {
-        }
+        public NewPostViewController (IntPtr handle) : base (handle) { }
 
 		public override void ViewDidLoad() {
 			base.ViewDidLoad();

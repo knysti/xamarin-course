@@ -25,7 +25,9 @@ namespace EconFeed {
 
 			using (var sr = new StreamReader(response.GetResponseStream())) {
 				var json = sr.ReadToEnd();
-				return JsonConvert.DeserializeObject<List<Post>>(json);
+				var posts = JsonConvert.DeserializeObject<List<Post>>(json);
+				FeedStore.Feed = posts;
+				return posts;
 			}
 		}
 
@@ -44,7 +46,9 @@ namespace EconFeed {
 
 			using (var sr = new StreamReader(response.GetResponseStream())) {
 				var json = sr.ReadToEnd();
-				return JsonConvert.DeserializeObject<Post>(json);
+				var returnedPost = JsonConvert.DeserializeObject<Post>(json);
+				FeedStore.Feed.Add(returnedPost);
+				return returnedPost;
 			}
 		}
 	}
