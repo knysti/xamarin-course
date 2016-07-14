@@ -1,6 +1,8 @@
 ﻿using System;
 using UIKit;
 using Economic.EconFeedService.Models;
+using econFeed;
+using econFeed.iOS;
 
 namespace econFeed.iOS {
 	public partial class FeedTableViewController : UITableViewController {
@@ -17,6 +19,9 @@ namespace econFeed.iOS {
 			RefreshControl.ValueChanged += delegate {
 				FetchPosts();
 			};
+
+			TableView.EstimatedRowHeight = 60;
+			TableView.RowHeight = UITableView.AutomaticDimension;
 		}
 
 		#endregion
@@ -36,6 +41,19 @@ namespace econFeed.iOS {
 
 		#endregion
 
+		#region Navigation
+
+		public override void PrepareForSegue(UIStoryboardSegue segue, Foundation.NSObject sender) {
+			if (segue.DestinationViewController is PostDetailViewController) {
+				var cell = sender as FeedTableViewCell;
+				var dvc = segue.DestinationViewController as PostDetailViewController;
+				dvc.Post = cell.Post;
+			}
+		}
+
+		#endregion
+
+
 		#region UITableView delegate and data source
 
 		public override nint NumberOfSections(UITableView tableView) {
@@ -49,14 +67,8 @@ namespace econFeed.iOS {
 		static String CellId = "feedCell";
 
 		public override UITableViewCell GetCell(UITableView tableView, Foundation.NSIndexPath indexPath) {
-			var cell = tableView.DequeueReusableCell(CellId);
-			if (cell == null) {
-				cell = new UITableViewCell(UITableViewCellStyle.Subtitle, CellId);
-			}
-
-			var post = posts[indexPath.Row];
-			cell.TextLabel.Text = post.Text;
-			cell.DetailTextLabel.Text = post.Author.Name + " " + post.Created;
+			var cell = tableView.DequeueReusableCell(CellId) as FeedTableViewCell;
+			cell.Post = posts[indexPath.Row];
 			return cell;
 		}
 

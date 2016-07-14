@@ -12,9 +12,11 @@
     <Compile Include="$(MSBuildThisFileDirectory)Managers\FeedManager.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Managers\Manager.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Network\RestClient.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Extensions\DateExtensions.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="$(MSBuildThisFileDirectory)Managers\" />
     <Folder Include="$(MSBuildThisFileDirectory)Network\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Extensions\" />
   </ItemGroup>
 </Project>
