@@ -1,6 +1,6 @@
 <!-- ![Xamarin logo]() -->
 <p align="center">
-<img width="100" height="100" src="https://raw.githubusercontent.com/e-conomic/xamarin-course/master/xamarin_logo.png" alt="xamaring logo">
+<img width="235" height="100" src="https://raw.githubusercontent.com/e-conomic/xamarin-course/master/xamarin_logo.png" alt="xamaring logo">
 &nbsp;
 &nbsp;
 &nbsp;
