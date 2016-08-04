@@ -1,6 +1,6 @@
 <!-- ![Xamarin logo]() -->
 <p align="center">
-<img width="100" height="100" src="http://eclipsesource.com/blogs/wp-content/uploads/2014/06/Apple_Swift_Logo.png" alt="swift logo">
+<img width="100" height="100" src="https://raw.githubusercontent.com/e-conomic/xamarin-course/master/xamarin_logo.png" alt="xamaring logo">
 &nbsp;
 &nbsp;
 &nbsp;
