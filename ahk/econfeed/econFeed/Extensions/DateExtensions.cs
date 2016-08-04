@@ -10,7 +10,7 @@ namespace econFeed {
 			// If it is today, don't show the date
 			if (date == DateTime.Today) {
 				return date.ToShortTimeString();
-			} else {
+			} else {				
 				return date.ToShortTimeString() + " " + date.ToLongDateString();
 			}
 		}

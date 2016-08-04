@@ -30,7 +30,8 @@ namespace econFeed.iOS {
 
 		void FetchPosts() {
 			new FeedManager().loadFeeds((_, posts) => {
-				this.posts = posts;
+				this.posts = posts as Post[];
+				
 				TableView.ReloadData();
 				RefreshControl.EndRefreshing();
 			}, (response, data) => {

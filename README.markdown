@@ -1,3 +1,43 @@
+<!-- ![Xamarin logo]() -->
+<p align="center">
+<img width="100" height="100" src="http://eclipsesource.com/blogs/wp-content/uploads/2014/06/Apple_Swift_Logo.png" alt="swift logo">
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+<img width="100" height="100" src="http://ordrestyring.dk/wp-content/uploads/2015/05/e-conomic_ny.jpg" alt="e-conomic logo">
+</p>
+
+# Learn Xamarin for free at e-conomic's Code Academy
+
+Interested in learning how to build cross-platform apps for iOS and Android using Xamarin?  Look no further. This fall e-conomic will host a weekly class, where you can come and learn together with full time developers, that want to learn as well. We will create a space in e-conomic's development department where you have the time to learn, and where you can get help and feedback, in a nice environment in central Copenhagen.
+
+## What will we be doing? 
+* Watch some online videos
+* Give a few lectures ourselves
+* Independent projects with help from e-conomic's mobile developers.
+
+## Ok, so how much is it?
+It's free. We have limited slots open, but the course is free of charge. While e-conomic will supply the location, coffee, and fresh fruit, you must bring your own hard- and software.
+
+## So what is the catch?
+There is no catch. We at e-conomic would like to get contact to new and future developers, and show you that e-conomic is a nice place to spend your working hours. We will not dictate what kind of app you can and cannot build. The aim of this course is for you to learn! No strings attached.
+
+## Practicalities
+Direct any questions to our mobile developer Anders at ahk@e-conomic.com. The class will be Thursdays from 12 o'clock starting the 1 of Spetember 2016. Last course day will be no later than December 1 2016.
+
+## Prerequisites
+This course will not cover the basics of programming and computer science. Before attending this course you must have some programming experience. In particular we require that you have already gotten your feet wet with C#. With the right backgroud, following a preliminary online course in C# could be sufficient.
+
+Furthermore, as you will be working together with other students, you must have some basic knowledge of working with revision control software. At e-conomic we use Git, and we strongly urge you to do so too. While we will gladly help you, there will be no lessons on Git.
+
+## Sign up
+Create a pull request to this repository where you have added your GitHub username to the list of applicants below.
+
+## Applicants (GitHub username)
+AndersHqst    
+ssnielsen   
+
 # Curriculum [WIP]
     
 ### Xamarin intro
@@ -11,7 +51,7 @@
 ### First app
 * Convert my cash
 * Magnet Detector
-* List + Api app + Navigation (extended version of the music player)
+* List + Api app + Navigation (a simple music player that fetches dta from a n API)
     
 ### Other stuff we have to cover
 * MVC / Activities - iOS and Android architecture and life cycles
@@ -20,4 +60,4 @@
 * ...
 
 ### Project
-* Base line is our own demo app
+* Build your own thing - with our help and feedback

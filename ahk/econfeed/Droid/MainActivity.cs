@@ -11,13 +11,10 @@ namespace econFeed.Droid {
 			base.OnCreate(savedInstanceState);
 
 			// Set our view from the "main" layout resource
-			SetContentView(Resource.Layout.Main);
+			SetContentView(Resource.Layout.FeedListLayout);
 
-			// Get our button from the layout resource,
-			// and attach an event to it
-			Button button = FindViewById<Button>(Resource.Id.myButton);
-
-			button.Click += delegate { button.Text = string.Format("{0} clicks!", count++); };
+			var list = FindViewById(Resource.Id.feed_list) as ListView;
+			list.Adapter = 
 		}
 	}
 }
