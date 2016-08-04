@@ -24,7 +24,7 @@ It's free. We have limited slots open, but the course is free of charge. While e
 There is no catch. We at e-conomic would like to get contact to new and future developers, and show you that e-conomic is a nice place to spend your working hours. We will not dictate what kind of app you can and cannot build. The aim of this course is for you to learn! No strings attached.
 
 ## Practicalities
-Direct any questions to our mobile developer Anders at ahk@e-conomic.com. The class will be Thursdays from 12 o'clock starting the 1 of Spetember 2016. Last course day will be no later than December 1 2016.
+Direct any questions to our mobile developer Anders at ahk@e-conomic.com. The class will be Thursdays from 12 o'clock starting the 1st of Spetember 2016. Last course day will be no later than December 1st 2016.
 
 ## Prerequisites
 This course will not cover the basics of programming and computer science. Before attending this course you must have some programming experience. In particular we require that you have already gotten your feet wet with C#. With the right backgroud, following a preliminary online course in C# could be sufficient.
