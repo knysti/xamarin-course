@@ -10,7 +10,7 @@
 
 # Learn Xamarin for free at e-conomic's Code Academy
 
-Interested in learning how to build cross-platform apps for iOS and Android using Xamarin?  Look no further. This fall e-conomic will host a weekly class, where you can come and learn together with full time developers, that want to learn as well. We will create a space in e-conomic's development department where you have the time to learn, and where you can get help and feedback, in a nice environment in central Copenhagen. The course is designed in a way that makes it easy for you to convert your effort into ETCS points at your own university.
+Interested in learning how to build cross-platform apps for iOS and Android using Xamarin?  Look no further. This fall e-conomic will host a weekly class, where you can come and learn together with full time developers, that want to learn as well. We will create a space in e-conomic's development department where you have the time to learn, and where you can get help and feedback, in a nice environment in central Copenhagen.
 
 ## What will we be doing? 
 * Watch some online videos
