@@ -8,7 +8,7 @@
 <img width="100" height="100" src="http://ordrestyring.dk/wp-content/uploads/2015/05/e-conomic_ny.jpg" alt="e-conomic logo">
 </p>
 
-# Learn Xamarin for free at e-conomic's Code Academy
+# Learn Xamarin for free at e-conomic
 
 Interested in learning how to build cross-platform apps for iOS and Android using Xamarin?  Look no further. This fall e-conomic will host a weekly class, where you can come learn together with full time developers. We will create a space in e-conomic's development department where you will learn with help and feedback from our developers, in a nice environment in central Copenhagen.
 
