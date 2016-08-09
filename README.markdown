@@ -37,6 +37,10 @@ Furthermore, as you will be working together with other students, you must have 
 ## Sign up
 Create a pull request to this repository where you have added your GitHub username to the list of applicants below.
 
+## Past courses
+[Swift - fall 2015](https://github.com/e-conomic/swift-course)   
+[Client Side Applications - spring 2016](https://github.com/e-conomic/client-side-application-course)
+
 ## Applicants (GitHub username)
 AndersHqst    
 ssnielsen   
