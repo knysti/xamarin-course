@@ -22,7 +22,7 @@ Interested in learning how to build cross-platform apps for iOS and Android usin
 It's free. We have limited slots open, but the course is free of charge. While e-conomic will supply the location, coffee, and fresh fruit, you must bring your own hard- and software.
 
 ## So what is the catch?
-There is no catch. We at e-conomic would like to create a resource full environment, get in contact with new and future developers. and show you that we have a nice place to spend your working hours. We will not dictate what kind of app you can and cannot build. The aim of this course is for you to learn! No strings attached.
+There is no catch. We at e-conomic would like to create a resourceful environment, get in contact with new and future developers, and show you that we have a nice work place. We will not dictate what kind of app you can and cannot build. The aim of this course is for you to learn! No strings attached.
 
 ## More info and sign up
 Create a pull request to our repository at https://github.com/e-conomic/xamarin-course
