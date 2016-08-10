@@ -44,6 +44,7 @@ Create a pull request to this repository where you have added your GitHub userna
 ## Applicants (GitHub username)
 AndersHqst    
 ssnielsen   
+knysti
 
 # Curriculum [WIP]
     
