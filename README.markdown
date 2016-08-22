@@ -46,9 +46,9 @@ AndersHqst
 ssnielsen   
 knysti   
 thescholes   
-imfpa
-thescholes 
-FrankWheeldon  
+imfpa   
+thescholes    
+FrankWheeldon   
 
 # Curriculum [WIP]
     
