@@ -45,7 +45,8 @@ Create a pull request to this repository where you have added your GitHub userna
 AndersHqst    
 ssnielsen   
 knysti   
-thescholes   
+thescholes 
++Frank
 
 # Curriculum [WIP]
     
