@@ -47,7 +47,6 @@ ssnielsen
 knysti   
 thescholes   
 imfpa   
-thescholes    
 FrankWheeldon   
 
 # Curriculum [WIP]
