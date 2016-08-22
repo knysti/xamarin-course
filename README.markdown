@@ -46,7 +46,7 @@ AndersHqst
 ssnielsen   
 knysti   
 thescholes 
-+Frank
++FrankWheeldon
 
 # Curriculum [WIP]
     
