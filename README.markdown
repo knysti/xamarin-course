@@ -27,7 +27,12 @@ There is no catch. We at e-conomic would like to create a resourceful environmen
 Yes, our students have done this in the past. You just need to find a supervisor at your university who is willing to aprove it. We will not involve yourselves in this matter, but we will try to design the course in a way that the work load matches a 5 ETCS course.
 
 ## Practicalities
-Direct any questions to our mobile developer Anders at ahk@e-conomic.com. The class will be Thursdays from 12 o'clock starting the 1st of September 2016. Last course day will be no later than December 1st 2016.
+Direct any questions to our mobile developer Anders at ahk@e-conomic.com.  
+
+* When: Thursdays from 12 o'clock.
+* First day 1st of September 2016. 
+* Last day December 1st 2016.   
+* No class on the 6th of October.
 
 ## Prerequisites
 This course will not cover the basics of programming and computer science. Before attending this course you must have some programming experience. In particular we require that you have already gotten your feet wet with C#. With the right background, following a preliminary online course in C# could be sufficient.
