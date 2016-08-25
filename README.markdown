@@ -48,6 +48,7 @@ knysti
 thescholes   
 imfpa   
 FrankWheeldon   
+slashsorin
 
 # Curriculum [WIP]
     
