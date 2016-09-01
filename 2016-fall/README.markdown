@@ -10,12 +10,12 @@ Anders ahk@e-conomic.com 30290060 @AndersHqst
 * [Watch Lecture 1](https://www.udemy.com/learn-xamarin-by-creating-real-cross-platform-apps/learn/v4/content)
 * [Watch Lecture 3](https://www.udemy.com/learn-xamarin-by-creating-real-cross-platform-apps/learn/v4/content)
 * By the end of today:
-** You have Xamarin up an running
-** You can launch an empty iOS and Android
-** Started work on "Convert My Cash"
+    * You have Xamarin up an running
+    * You can launch an empty iOS and Android
+    * Started work on "Convert My Cash"
 * Before Next time
-** Read up on Git basics (if needed)
-** Made a PR (Pull Request) to our repo with your "Convert My Cash" app
+    * Read up on Git basics (if needed)
+    * Made a PR (Pull Request) to our repo with your "Convert My Cash" app
 
 ### Thursday 7. September
 * TBA
