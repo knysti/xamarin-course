@@ -53,7 +53,8 @@ knysti
 thescholes   
 imfpa   
 FrankWheeldon   
-slashsorin
+slashsorin   
+brunsgaard
 
 # Curriculum [WIP]
     
