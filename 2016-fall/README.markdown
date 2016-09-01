@@ -24,7 +24,6 @@ Anders ahk@e-conomic.com 30290060 @AndersHqst
 
 ### Thursday 15. September
 * TBA
-* Meeting room "Narnia"
 
 ### Thursday 22. September
 * TBA
