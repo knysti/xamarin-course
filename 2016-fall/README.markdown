@@ -19,3 +19,16 @@ Anders ahk@e-conomic.com 30290060 @AndersHqst
 
 ### Thursday 8. September
 * TBA
+* Meeting room "Narnia"
+
+### Thursday 15. September
+* TBA
+* Meeting room "Narnia"
+
+### Thursday 22. September
+* TBA
+* Anders and Søren not here
+
+### Thursday 29. September
+* TBA
+* Anders and Søren not here
