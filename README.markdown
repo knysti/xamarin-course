@@ -68,7 +68,7 @@ slashsorin
 ### First app
 * Convert my cash
 * Magnet Detector
-* List + Api app + Navigation (a simple music player that fetches dta from a n API)
+* List + Api app + Navigation (a simple music player that fetches data from an API)
     
 ### Other stuff we have to cover
 * MVC / Activities - iOS and Android architecture and life cycles
