@@ -16,6 +16,7 @@ Anders ahk@e-conomic.com 30290060 @AndersHqst
 * Before Next time
     * Read up on Git basics (if needed)
     * Made a PR (Pull Request) to our repo with your "Convert My Cash" app
+    * Send short presentation and photo of yourself to Anders
 
 ### Thursday 8. September
 * TBA
