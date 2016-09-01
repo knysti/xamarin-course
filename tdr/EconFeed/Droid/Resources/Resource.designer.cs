@@ -26,6 +26,7 @@ namespace EconFeed.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::ModernHttpClient.Resource.String.library_name = global::EconFeed.Droid.Resource.String.library_name;
 		}
 		
 		public partial class Animation
@@ -2492,8 +2493,8 @@ namespace EconFeed.Droid
 			// aapt resource value: 0x7f0b0015
 			public const int abc_toolbar_collapse_description = 2131427349;
 			
-			// aapt resource value: 0x7f0b0018
-			public const int app_name = 2131427352;
+			// aapt resource value: 0x7f0b0019
+			public const int app_name = 2131427353;
 			
 			// aapt resource value: 0x7f0b0000
 			public const int appbar_scrolling_view_behavior = 2131427328;
@@ -2504,8 +2505,11 @@ namespace EconFeed.Droid
 			// aapt resource value: 0x7f0b0002
 			public const int character_counter_pattern = 2131427330;
 			
+			// aapt resource value: 0x7f0b0018
+			public const int hello = 2131427352;
+			
 			// aapt resource value: 0x7f0b0017
-			public const int hello = 2131427351;
+			public const int library_name = 2131427351;
 			
 			// aapt resource value: 0x7f0b0016
 			public const int status_bar_notification_info_overflow = 2131427350;
