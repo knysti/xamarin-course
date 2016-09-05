@@ -10,6 +10,7 @@ namespace CashConvertor.Droid
 
 		public override void ShowAlert()
 		{
+			// I am not sure if I am getting the correct Context here (or the right Context) ?!
 			Toast.MakeText(Android.App.Application.Context, "Please enter a number!", ToastLength.Long).Show();
 		}
 	}
