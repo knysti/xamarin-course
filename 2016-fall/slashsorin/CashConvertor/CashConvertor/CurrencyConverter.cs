@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace CashConvertor
 {
 	public class CurrencyConverter
@@ -10,7 +11,7 @@ namespace CashConvertor
 			input = _input;
 		}
 
-		public string ConvertCurrency()
+		public string ConvertCurrency(AlertToDisplay atd)
 		{
 			var output = "";
 			if (input.Length < 1)
@@ -26,13 +27,13 @@ namespace CashConvertor
 				}
 				catch (Exception e)
 				{
-					output = "Please enter a number!";
+					atd.ShowAlert();
 					Console.WriteLine("Error converting the amount: " + e.Message);
 				}
 			}
 
 			return output;
-		}	
+		}
 	}
 }
 

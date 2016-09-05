@@ -19,7 +19,8 @@ namespace CashConvertor.iOS
 			Button.TouchUpInside += delegate
 			{
 				var converter = new CurrencyConverter(amountTextField.Text);
-				var result = converter.ConvertCurrency();
+				AlertiOS ai = new AlertiOS();
+				var result = converter.ConvertCurrency(ai);
 				resultLabel.Text = result;
 			};
 		}

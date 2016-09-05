@@ -23,7 +23,8 @@ namespace CashConvertor.Droid
 
 			button.Click += delegate {
 				var converter = new CurrencyConverter(amountEditText.Text);
-				var result = converter.ConvertCurrency();
+				AlertAndroid aa = new AlertAndroid();
+				var result = converter.ConvertCurrency(aa);
 				resultTextView.Text = result;
 			};
 		}
