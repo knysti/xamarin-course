@@ -1,0 +1,4 @@
+CurrencyConverter.Droid.MainActivity, CurrencyConverter.Droid;md55724c515c2b62465311eaee8f002d06d.MainActivity
+CurrencyConverter.Droid.MainActivity, CurrencyConverter.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55724c515c2b62465311eaee8f002d06d.MainActivity
+CurrencyConverter.Droid.MainActivity;md55724c515c2b62465311eaee8f002d06d.MainActivity
+currencyconverter.droid.MainActivity;md55724c515c2b62465311eaee8f002d06d.MainActivity

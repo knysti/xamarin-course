@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="Droid/CurrencyConverter.Droid.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/ViewController.cs">
+    <Files>
+      <File FileName="CurrencyConverter/CurrencyConverter.cs" Line="20" Column="5" />
+      <File FileName="Droid/MainActivity.cs" Line="29" Column="25" />
+      <File FileName="iOS/ViewController.cs" Line="26" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CurrencyConverter" expanded="True">
+            <Node name="CurrencyConverter" expanded="True" />
+            <Node name="CurrencyConverter.Droid" expanded="True" selected="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+            <Node name="CurrencyConverter.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.CurrencyConverter.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.ItemProperties.CurrencyConverter.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A792350C-8EDD-4DC1-827A-926164AC9793" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
