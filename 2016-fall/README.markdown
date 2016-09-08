@@ -21,8 +21,6 @@ Søren ssn@e-conomic.com 26551981 @ssnielsen
 
 ### Thursday 8. September
 * [Watch Lecture 4](https://www.udemy.com/learn-xamarin-by-creating-real-cross-platform-apps/learn/v4/content)
-* If time allows [Watch Lecture 5](https://www.udemy.com/learn-xamarin-by-creating-real-cross-platform-apps/learn/v4/content)
-* We set in meeting room "Narnia"
 * By the end of today:
     * Received feedback on your "Convert My Cash" app, and have it merged to our repo
     * Started work on the "Magnet Detector" app
@@ -30,17 +28,30 @@ Søren ssn@e-conomic.com 26551981 @ssnielsen
     * Made a PR (Pull Request) to our repo with your "Magnet Detector" app
 
 ### Thursday 15. September
-* Projects kick off
-* TBA
+* Introduction to projects that will start from next time.
+* [Watch Lecture 5](https://www.udemy.com/learn-xamarin-by-creating-real-cross-platform-apps/learn/v4/content) 
+* By the end of today:
+    * Received feedback on your "Magnetometor" app, and have it merged to our repo
+    * Started work on the "Music player" app
+* Before Next time
+    * Made a PR (Pull Request) to our repo with your "Music player" app
 
 ### Thursday 22. September
-* TBA
 * Anders and Søren not here
+* Project kick off
+   * Create an informal description of a cross-platform app.
+   * We will provide you with some minimum expectation and requirement.
+* By the end of today:
+    * You have a repository on your GitHub with a description and (bare bone) Xamarin project for you app.
+* Before Next time
+    * Submitted you first PR with intial work on your project
 
 ### Thursday 29. September
 * TBA
 * Anders and Søren not here
 
+### Thursday 7. October
+* TBA
 ...
 
 ### Thursday 1. December
