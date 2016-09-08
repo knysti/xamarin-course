@@ -5,7 +5,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cash.Droid", "Droid\Cash.Dr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cash.iOS", "iOS\Cash.iOS.csproj", "{71947270-A409-4C37-8A87-C3EE09381B00}"
 EndProject
-Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Cash", "Cash\Cash.shproj", "{C5C236BA-5D18-4EFD-8649-73D443FCF9D7}"
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Shared", "Cash\Shared.shproj", "{C5C236BA-5D18-4EFD-8649-73D443FCF9D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

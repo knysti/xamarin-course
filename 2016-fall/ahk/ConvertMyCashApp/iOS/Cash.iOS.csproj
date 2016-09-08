@@ -114,6 +114,6 @@
       <DependentUpon>CashConversionViewController.cs</DependentUpon>
     </Compile>
   </ItemGroup>
-  <Import Project="..\Cash\Cash.projitems" Label="Shared" Condition="Exists('..\Cash\Cash.projitems')" />
+  <Import Project="..\Cash\Shared.projitems" Label="Shared" Condition="Exists('..\Cash\Shared.projitems')" />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
