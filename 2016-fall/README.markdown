@@ -31,7 +31,7 @@ Søren ssn@e-conomic.com 26551981 @ssnielsen
 * Introduction to projects that will start from next time.
 * [Watch Lecture 5](https://www.udemy.com/learn-xamarin-by-creating-real-cross-platform-apps/learn/v4/content) 
 * By the end of today:
-    * Received feedback on your "Magnetometor" app, and have it merged to our repo
+    * Received feedback on your "Magnet Detector" app, and have it merged to our repo
     * Started work on the "Music player" app
 * Before Next time
     * Made a PR (Pull Request) to our repo with your "Music player" app
