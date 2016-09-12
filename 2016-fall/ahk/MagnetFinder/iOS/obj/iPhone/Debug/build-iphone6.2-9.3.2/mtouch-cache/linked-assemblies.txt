@@ -1,0 +1,6 @@
+/Users/ahkj/Projects/MagnetFinderApp/iOS/obj/iPhone/Debug/build-iphone6.2-9.3.2/mtouch-cache/Link/System.dll
+/Users/ahkj/Projects/MagnetFinderApp/iOS/obj/iPhone/Debug/build-iphone6.2-9.3.2/mtouch-cache/Link/MagnetFinderApp.iOS.exe
+/Users/ahkj/Projects/MagnetFinderApp/iOS/obj/iPhone/Debug/build-iphone6.2-9.3.2/mtouch-cache/Link/DeviceMotion.Plugin.dll
+/Users/ahkj/Projects/MagnetFinderApp/iOS/obj/iPhone/Debug/build-iphone6.2-9.3.2/mtouch-cache/Link/DeviceMotion.Plugin.Abstractions.dll
+/Users/ahkj/Projects/MagnetFinderApp/iOS/obj/iPhone/Debug/build-iphone6.2-9.3.2/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/ahkj/Projects/MagnetFinderApp/iOS/obj/iPhone/Debug/build-iphone6.2-9.3.2/mtouch-cache/Link/mscorlib.dll

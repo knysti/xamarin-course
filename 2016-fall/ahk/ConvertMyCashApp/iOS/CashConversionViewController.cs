@@ -25,7 +25,7 @@ namespace Cash.iOS {
 					}));
 					PresentViewController(ac, true, null);
 					Console.WriteLine(fe);
-				}				 
+				}		
 			};
 		}
 	}
