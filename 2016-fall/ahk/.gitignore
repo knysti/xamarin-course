@@ -7,6 +7,12 @@
 packages/
 TestResults/
 
+# Just as a good measure
+*.dll
+
+# Xamarin components
+Components/
+
 # globs
 Makefile.in
 *.DS_Store
