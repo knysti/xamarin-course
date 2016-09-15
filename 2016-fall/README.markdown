@@ -41,6 +41,7 @@ Søren ssn@e-conomic.com 26551981 @ssnielsen
 * Project kick off
    * Create an informal description of a cross-platform app.
    * We will provide you with some minimum expectation and requirement.
+   * [Project guidelines](https://github.com/e-conomic/xamarin-course/blob/master/2016-fall/projects.markdown)
 * By the end of today:
     * You have a repository on your GitHub with a description and (bare bone) Xamarin project for you app.
 * Before Next time
