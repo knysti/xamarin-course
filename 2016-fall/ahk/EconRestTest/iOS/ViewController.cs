@@ -38,15 +38,18 @@ namespace EconRestTest.iOS {
 
 	public partial class ViewController : UIViewController {
 
+		static string ACCESS_ID = "1kMuhGdhOioDClAAta9a4J6dw8bBxXfC2zk2Me1Dpsk1";
+		static string APP_ID = "3NJy5kmNgTFoUFkMzBeM0i0s4UBhHbusU7baSbIbfKE1";
+
 		public ViewController(IntPtr handle) : base(handle) {
 		}
 
 		public override void ViewDidLoad() {
 			base.ViewDidLoad();
 
-			var client = new RestClient("https://staging.restapi.e-conomic.com/");
-			client.AddDefaultHeader("accessId", "ACCESS_ID");
-			client.AddDefaultHeader("appId", "APP_ID");
+			var client = new RestClient("https://restapi.e-conomic.com/");
+			client.AddDefaultHeader("accessId", ACCESS_ID);
+			client.AddDefaultHeader("appId", APP_ID);
 			client.AddDefaultHeader("Content-Type", "application/json");
 
 			// GET
