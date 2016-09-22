@@ -9,6 +9,13 @@
     <Import_RootNamespace>EconRestTest</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="$(MSBuildThisFileDirectory)MyClass.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ProductHttpClient.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\Unit.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\ProductGroup.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\Product.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\Payload.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="$(MSBuildThisFileDirectory)Model\" />
   </ItemGroup>
 </Project>
