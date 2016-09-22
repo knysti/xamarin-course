@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sdk>
+  <AndroidApiLevel>15</AndroidApiLevel>
+  <AndroidApiLevelName>15</AndroidApiLevelName>
+  <AndroidNdkPath>/Users/tudorgk/Library/Android/ndk</AndroidNdkPath>
+  <AndroidSdkBuildToolsPath>/Users/tudorgk/Library/Android/sdk/build-tools/24.0.0</AndroidSdkBuildToolsPath>
+  <AndroidSdkBuildToolsBinPath>/Users/tudorgk/Library/Android/sdk/build-tools/24.0.0</AndroidSdkBuildToolsBinPath>
+  <AndroidSdkPath>/Users/tudorgk/Library/Android/sdk</AndroidSdkPath>
+  <JavaSdkPath>/usr</JavaSdkPath>
+  <MonoAndroidBinPath>/Library/Frameworks/Xamarin.Android.framework/Versions/Current/bin</MonoAndroidBinPath>
+  <MonoAndroidToolsPath>/Library/Frameworks/Xamarin.Android.framework/Versions/Current/lib/mandroid</MonoAndroidToolsPath>
+  <ReferenceAssemblyPaths>
+    <ReferenceAssemblyPath>/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0</ReferenceAssemblyPath>
+  </ReferenceAssemblyPaths>
+  <TargetFrameworkVersion>v4.0.3</TargetFrameworkVersion>
+  <ZipAlignPath>/Users/tudorgk/Library/Android/sdk/build-tools/24.0.0</ZipAlignPath>
+  <MonoAndroidIncludePath />
+  <SupportedApiLevel>15</SupportedApiLevel>
+  <AndroidSequencePointsMode>None</AndroidSequencePointsMode>
+</Sdk>

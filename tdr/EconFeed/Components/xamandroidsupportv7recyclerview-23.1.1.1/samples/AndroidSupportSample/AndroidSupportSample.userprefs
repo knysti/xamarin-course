@@ -1,0 +1,39 @@
+﻿<Properties StartupItem="AndroidSupportSample/AndroidSupportSample.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../Droid/Resources/values/styles.xml">
+    <Files>
+      <File FileName="../../../../Droid/FeedActivity.cs" Line="15" Column="1" />
+      <File FileName="../../../../Droid/MainActivity.cs" Line="17" Column="41" />
+      <File FileName="../../../../Droid/Properties/AndroidManifest.xml" Line="5" Column="4" />
+      <File FileName="AndroidSupportSample/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="../../../../Droid/Resources/values/styles.xml" Line="3" Column="67" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AndroidSupportSample" expanded="True">
+            <Node name="AndroidSupportSample" expanded="True" />
+          </Node>
+          <Node name="EconFeed" expanded="True">
+            <Node name="EconFeed" expanded="True" />
+            <Node name="EconFeed.Droid" expanded="True">
+              <Node name="Assets" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+                <Node name="values" expanded="True">
+                  <Node name="styles.xml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AndroidSupportSample AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.42f7061fe4ee9ff5" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
