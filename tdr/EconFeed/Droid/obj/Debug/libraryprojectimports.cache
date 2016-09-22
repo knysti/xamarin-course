@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/tudorgk/Documents/Work/xamarin-course/tdr/EconFeed/Droid/obj/Debug/__library_projects__/ModernHttpClient/library_project_imports/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>/Users/tudorgk/Documents/Work/xamarin-course/tdr/EconFeed/Droid/obj/Debug/__library_projects__/ModernHttpClient/library_project_imports/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/tudorgk/Documents/Work/xamarin-course/tdr/EconFeed/Droid/obj/Debug/__library_projects__/ModernHttpClient.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
