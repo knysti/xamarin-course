@@ -20,6 +20,13 @@ namespace CashConverter.iOS
 			{
 				var result = new CashConverter.CurrencyConverter(txtAmount.Text);
 				lblResult.Text = result.ConvertCurrency();
+
+				if (result.HasInputError()) 
+				{ 
+					var alertController = UIAlertController.Create("ERROR", result.ConvertCurrency(), UIAlertControllerStyle.Alert);
+					alertController.AddAction(UIAlertAction.Create("OK", UIAlertActionStyle.Default, null));
+					PresentViewController(alertController, true, null);
+				}
 			};
 		}
 

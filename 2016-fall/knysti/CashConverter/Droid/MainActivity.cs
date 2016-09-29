@@ -27,7 +27,6 @@ namespace CashConverter.Droid
 
 				if (converter.HasInputError())
 				{
-					amountEditText.Text = string.Empty;
 					resultTextView.Text = string.Empty;
 					Toast.MakeText(this, result, ToastLength.Long).Show();
 				}

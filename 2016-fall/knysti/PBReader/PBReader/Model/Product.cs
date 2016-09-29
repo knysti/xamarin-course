@@ -3,15 +3,15 @@ namespace EconRestTest
 {
 	public class Product
 	{
-		public string Name { get; set; }
-		public string ProductNumber { get; set; }
-		public int CostPrice { get; set; }
-		public int RecommendedPrice { get; set; }
-		public int SalesPrice { get; set; }
-		public string BarCode { get; set; }
-		public bool Barred { get; set; }
-		public string Self { get; set; }
-		public Unit Unit { get; set; }
-		public ProductGroup ProductGroup { get; set; }
+		public string name { get; set; }
+		public string productNumber { get; set; }
+		public int costPrice { get; set; }
+		public int recommendedPrice { get; set; }
+		public int salesPrice { get; set; }
+		public string barCode { get; set; }
+		public bool barred { get; set; }
+		public string self { get; set; }
+		public Unit unit { get; set; }
+		public ProductGroup productGroup { get; set; }
 	}
 }

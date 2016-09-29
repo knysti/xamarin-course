@@ -27,7 +27,9 @@ namespace EconRestTest
 			{
 				if (response.StatusCode == System.Net.HttpStatusCode.OK)
 				{
-					success(response.Data.collection);
+					var products = response.Data.collection;
+					//Console.WriteLine(products[0]);
+					success(products);
 				}
 				else
 				{
@@ -38,10 +40,11 @@ namespace EconRestTest
 
 
 		// POST
-		public static void InsertProduct(Action<Product> success, Action<Exception> failure) 
-		{ 
-			var postRequest = new RestRequest("/products");
-			_client.PostAsync<Product>(postRequest, (response, request) =>
+		public static void InsertProduct(Product product, Action<Product> success, Action<Exception> failure)
+		{
+			var postRequest = new RestRequest("/products",Method.POST);
+			postRequest.AddJsonBody(product);
+			_client.PostAsync<Product>(postRequest, (response, callback) =>
 			{
 				if (response.StatusCode == System.Net.HttpStatusCode.OK)
 				{
@@ -57,7 +60,7 @@ namespace EconRestTest
 		// PUT
 		public static void UpdateProduct(Product product, Action<Product> success, Action<Exception> failure)
 		{
-			var putRequest = new RestRequest($"/products/{product.ProductNumber}");
+			var putRequest = new RestRequest($"/products/{product.productNumber}");
 			putRequest.AddJsonBody(product);
 
 			_client.PutAsync<Product>(putRequest, (response, req) =>
@@ -72,8 +75,13 @@ namespace EconRestTest
 				}
 			});
 		}
+		/*
+		public async Task<List<Product>> GetProducts()
+		{
+			await _client.ExecuteTaskAsync
 
-
+		}
+		*/
 		// DELETE
 	}
 }
